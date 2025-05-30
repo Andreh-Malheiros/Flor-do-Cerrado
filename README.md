@@ -1,23 +1,39 @@
-# Flor do Cerrado - Landing Page
+# Landing Page - Flor do Cerrado
 
-Landing page desenvolvida para simular a presença online de uma loja física de flores e presentes.
+Landing page fictícia criada para uma floricultura local, com visual delicado e foco em apresentação de produtos e contato direto.
 
-## 🧾 Descrição
+## 📌 Descrição
 
-Este projeto é uma landing page fictícia criada com foco em negócios locais que desejam divulgar seus produtos de forma profissional e acessível. O site é responsivo, leve e com design moderno, perfeito para pequenas lojas que vendem pelo WhatsApp ou Instagram.
+Projeto feito para portfólio, simula o site de uma floricultura com foco em experiência do usuário e design clean.
 
-## 🔧 Tecnologias Utilizadas
+## 🚀 Tecnologias
 
+- HTML
 - CSS
-- HTML5
-- JavaScript (ES6+)
+- JavaScript
 
-## 💻 Funcionalidades
+## 🛠 Como executar
 
-- Seções de produtos em destaque
-- Botões rápidos para WhatsApp e Instagram
-- Responsividade total (mobile-first)
-- Design clean e profissional
-  
----
+1. Clone o repositório:
+   ```
+   git clone https://github.com/Andreh-Malheiros/Flor-do-Cerrado
+   ```
+2. Abra o arquivo `index.html` no navegador.
 
+## 📸 Demonstração
+
+Acesse o projeto aqui: [Flor-do-Serrado](https://andreh-malheiros.github.io/Flor-do-Cerrado/)
+
+## ⚙️ Funcionalidades
+
+- Layout responsivo
+- Seções de destaque: produtos, sobre e contato
+- Visual delicado e apropriado ao nicho
+
+## 📄 Status
+
+Concluído ✅
+
+## 📝 Licença
+
+Uso pessoal / portfólio.
